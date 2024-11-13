@@ -43,9 +43,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Project specific
-models/*.h5
-Preparing_AI/data/*
-!Preparing_AI/data/.gitkeep
-Preparing_AI/img_to_test/*
-!Preparing_AI/img_to_test/.gitkeep
+# # Project specific
+# models/*.h5
+# Preparing_AI/data/*
+# !Preparing_AI/data/.gitkeep
+# Preparing_AI/img_to_test/*
+# !Preparing_AI/img_to_test/.gitkeep
